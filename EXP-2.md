@@ -19,13 +19,13 @@ Where:
   N→ number of samples.
 
 # Algorithm :
-	1) Start the program
-	2) Define the discrete-time signal x(n)
-	3) Find the length of the signal
-	4) Compute the DFT using fft()
-	5) Calculate magnitude spectrum using abs()
-	6) Plot the DFT using stem()
-	7)Stop the program
+1) Start the program
+2) Define the discrete-time signal x(n)
+3) Find the length of the signal
+4) Compute the DFT using fft()
+5) Calculate magnitude spectrum using abs()
+6) Plot the DFT using stem()
+7)Stop the program
 
 # MATLAB CODE :
 ~~~
